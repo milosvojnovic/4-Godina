@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+}
+table, tr , td{
+    border: 2px solid;
+}
+#prvi_red{
+    color: gold;
+}
+table{
+    width: 30%;
+    height: 30%;
+}
+#font{
+    font-style: bold;
+}
